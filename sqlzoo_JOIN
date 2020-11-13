@@ -138,7 +138,7 @@ WHERE teamid='GER'
 GROUP BY matchid, mdate;
 
 
---#13
+--#13 🌟⭕️
 /#
 List every match with the goals scored by each team as shown. This will use "CASE WHEN" which has not been explained in any previous exercises.
 #/
